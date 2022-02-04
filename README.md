@@ -1,3 +1,3 @@
 # oficina-webmapping
 
-Repositório de apoio à oficina de eb mapping do PAV
+Repositório de apoio à oficina de web mapping do PAV
